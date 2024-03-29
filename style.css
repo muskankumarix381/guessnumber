@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+button{
+    background-color: aqua;
+}
+button:disabled{
+    cursor: not-allowed;
+}
